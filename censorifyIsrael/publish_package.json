@@ -6,7 +6,7 @@
         "main": "censortextIsrael",
         "repository": {
                 "type": "git",
-                "url": "https://github.com/IsraelLopezAltamirano/nodebook"
+                "url": "https://github.com/IsraelLopezAltamirano/nodeApps/tree/master/censorifyIsrael"
         },
         "keywords": [
                 "censor",
