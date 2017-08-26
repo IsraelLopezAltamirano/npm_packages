@@ -1,9 +1,17 @@
 {
 	"author": "Israel E Lopez",
-	"name": "censorify",
+	"name": "nodebook",
 	"version": "0.1.1",
 	"description": "Censors words out of text",
-	"maim": "Censortext",
+	"main": "censortextIsrael",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/IsraelLopezAltamirano/nodebook"
+	},
+	"keywords": [
+		"censor",
+		"words"
+	],	
 	"dependencies": {},
 	"engines": {
 		"node": "*"

@@ -1,0 +1,20 @@
+{
+	"author": "israellopezaltamirano",
+        "name": "censorifyIsrael",
+        "version": "0.1.1",
+        "description": "Censors words out of text",
+        "main": "censortextIsrael",
+        "repository": {
+                "type": "git",
+                "url": "https://github.com/IsraelLopezAltamirano/nodebook"
+        },
+        "keywords": [
+                "censor",
+                "words"
+        ],
+        "dependencies": {},
+        "engines": {
+                "node": "*"
+        }
+}
+
