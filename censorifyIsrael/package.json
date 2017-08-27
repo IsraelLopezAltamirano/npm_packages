@@ -1,11 +1,23 @@
 {
-	"author": "israellopezaltamirano",
-        "name": "censorifyIsrael",
-        "version": "0.1.1",
-        "description": "Censors words out of text",
-        "main": "censortextIsrael",
-        "dependencies": {},
-        "engines": {
-                "node": "*"
-        }
+  "name": "censorifyisrael",
+  "version": "1.0.0",
+  "description": "Censors words out of text",
+  "main": "censortextIsrael.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IsraelLopezAltamirano/nodeApps/tree/master/censorifyIsrael"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ],
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "author": "Israel E Lopez",
+  "license": "ISC"
 }
