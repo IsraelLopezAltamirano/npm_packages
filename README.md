@@ -1,3 +1,3 @@
-# nodeApps
-This is my first Repository for 'node' applications.
-Israel E. Lopez Altamirano 8/26/2017
+#npm-packages
+This repository contains npm packages.
+	Israel E Lopez Altamirano 9/17
